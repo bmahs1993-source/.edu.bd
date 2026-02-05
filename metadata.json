@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Bagpur Masum Ali Pramanik High School Portal",
+  "description": "A comprehensive school management and informational website with dual student/admin modes, featuring persistent storage for notices, banners, and school content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
